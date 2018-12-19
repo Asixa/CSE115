@@ -1,0 +1,68 @@
+{
+  "words":
+  [
+    ["system", 200], ["data", 176], ["paper", 131], ["3D", 109], ["proposed", 93], ["monitoring", 84],
+    ["recognition", 81], ["pressure", 81], ["energy", 80], ["printing", 80], ["applications", 78], ["sensor", 78],
+    ["sensing", 77], ["results", 77], ["analysis", 74], ["method", 74], ["information", 74], ["performance", 72],
+    ["study", 71], ["framework", 71], ["propose", 71], ["design", 70], ["present", 67], ["sleep", 67],
+    ["divdivdiv", 67], ["sensors", 65], ["activities", 64], ["health", 62], ["process", 62], ["human", 61],
+    ["show", 61], ["wearable", 61], ["such", 59], ["time", 59], ["activity", 59], ["approach", 59],
+    ["divdivdivdiv", 58], ["device", 56], ["accuracy", 56], ["novel", 54], ["rehabilitation", 52], ["model", 52],
+    ["algorithm", 52], ["CS", 52], ["including", 51], ["classification", 48], ["body", 48], ["devices", 48],
+    ["new", 48], ["different", 46], ["systems", 46], ["high", 46], ["more", 46], ["work", 45], ["provide", 45],
+    ["manufacturing", 45], ["architecture", 43], ["Smart", 42], ["used", 42], ["gait", 42], ["features", 42],
+    ["signals", 42], ["use", 40], ["technology", 40], ["reduce", 40], ["rate", 39], ["problem", 39], ["achieve", 39],
+    ["identification", 39], ["challenge", 39], ["techniques", 37], ["motion", 37], ["quality", 37], ["first", 37],
+    ["mobile", 37], ["posture", 36], ["provides", 36], ["medical", 36], ["signal", 36], ["consumption", 36],
+    ["various", 35], ["patients", 35], ["existing", 35], ["healthcare", 35], ["learning", 35], ["Specifically", 33],
+    ["perform", 33], ["risk", 33], ["wireless", 32], ["technique", 32], ["develop", 32], ["application", 32],
+    ["mining", 32], ["experimental", 30], ["subjects", 30], ["important", 30], ["patient", 30], ["fall", 30],
+    ["dynamic", 29], ["methods", 29]
+  ],
+  "author": {
+    "name": "Wenyao Xu",
+    "affiliation": "Associate Professor, Computer Science & Engineering, SUNY at Buffalo",
+    "citedby": 1715,
+    "cites_per_year": {
+      "2009": 7,
+      "2010": 6,
+      "2011": 13,
+      "2012": 22,
+      "2013": 95,
+      "2014": 218,
+      "2015": 214,
+      "2016": 305,
+      "2017": 422,
+      "2018": 374
+    },
+    "hindex": 24,
+    "i10index": 55,
+    "id": "dvvN6qsAAAAJ",
+    "publictaion_count": 173,
+    "picture": "/scholar/images/cleardot.gif"
+  },
+  "publication":
+  [
+    ["ecushion: A textile pressure sensor array design and calibration for sitting posture analysis", 99, 2013],
+    ["Cluster size optimization in sensor networks with decentralized cluster-based protocols", 88, 2012],
+    ["Accelerometer-based on-body sensor localization for health and medical monitoring applications", 71, 2011],
+    ["Smart insole: a wearable system for gait analysis", 65, 2012],
+    ["A dense pressure sensitive bedsheet design for unobtrusive sleep posture monitoring", 61, 2013]
+  ],
+  "publisher": {
+    "IEEE": 80,
+    "Elsevier": 9,
+    "ACM": 28,
+    "IET": 1,
+    "other": 34,
+    "Multidisciplinary Digital Publishing Institute": 1,
+    "ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering)": 2,
+    "Springer International Publishing": 0,
+    "American Society of Mechanical Engineers": 2,
+    "Springer Berlin Heidelberg": 0,
+    "Institute of Automation, Chinese Academy of Sciences": 0,
+    "Taylor & Francis": 0,
+    "SAGE Publications": 0,
+    "IEEE Press": 1
+  }
+}
